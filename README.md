@@ -4,8 +4,8 @@
 ![1gkq9-jl8qs.gif](videos%2F1gkq9-jl8qs.gif)
 ![img.png](%CA%B9%D3%C3%D0%A7%B9%FB%2Fimg.png)
 
-# 现在可以免费测试(联系我获取激活码)  当然源码给钱也出
-带star截图 联系我 
+# 现在可以免费测试(--带star截图--联系我获取激活码)  
+当然！源码给钱也能出 哈哈哈
 # 联系方式
 邮箱 niudehua0927@outlook.com
 
