@@ -9,8 +9,7 @@
 
 # 更新日期2024.05.28目前JD 的PC端无法使用，（只支持APP协议）
 
-# 下载地址
+# 下载地址  
 https://github.com/ord-kivy/JD_maotai_quick_buy/releases/tag/V7
 
-# 第一批免费激活码已经发送完毕
-![img_1.png](xg%2Fimg_1.png)
+# 有用户反馈6月1号抢到一瓶
