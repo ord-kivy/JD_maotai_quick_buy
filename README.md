@@ -43,8 +43,9 @@
 # 下载地址  
 https://github.com/ord-kivy/JD_maotai_quick_buy/releases/tag/V7
 
-# 有好3位用户反馈6月1号抢到了
+# 有3位用户反馈6月1号抢到了
 6月1放量 10000瓶 好几位用户反馈抢到 
+都是晚上20点~~~ 笑哭
 ![抢到截图.png](抢到截图.png)
 
 # 还有没有抢到的  邮件或wx反馈一下
