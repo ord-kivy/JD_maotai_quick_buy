@@ -41,6 +41,10 @@
 > 综上，张三想成功有点困难，小白信用是 100+的用户成功几率最大。
 
 
+# 更新了京东app的h5st4.7参数
+![img.png](img.png)
+
+
 # 下载地址  
 https://github.com/ord-kivy/JD_maotai_quick_buy/releases/tag/V7
 
