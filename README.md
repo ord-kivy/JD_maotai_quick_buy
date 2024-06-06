@@ -1,4 +1,6 @@
-# 更新日期2024.06.04目前JD 的PC端无法使用，（只支持APP协议）
+# 新增库存监控功能
+![img_2.png](img_2.png)
+# 更新日期2024.06.06目前JD 的PC端无法使用，（只支持APP协议）
 # 效果
 ![img.png](xg%2Fimg.png)
 ![1gkq9-jl8qs.gif](xg%2F1gkq9-jl8qs.gif)
