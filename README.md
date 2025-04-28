@@ -1,15 +1,14 @@
-# 需要源码学习可以联系邮箱 niudehua0927@outlook.com
+# 需要源码学习可以联系邮箱 niudehua0927@outlook.com或者微信dsaxqh1
 源码收费
 # 新增库存监控功能
 ![img_2.png](img_2.png)
 # 更新日期2024.06.06目前JD 的PC端无法使用，（只支持APP协议）
 # 效果
-![img.png](xg%2Fimg.png)
 ![1gkq9-jl8qs.gif](xg%2F1gkq9-jl8qs.gif)
 ~# 现在可以免费测试(--带star截图--联系我获取激活码)  
 ~当然！源码给钱也能出 哈哈哈
 # 联系方式
-激活码联系邮箱 niudehua0927@outlook.com (长时间未回可以加V：qp5597)
+激活码联系邮箱 niudehua0927@outlook.com (长时间未回可以加V：dsaxqh1)
 
 # 有定制开发需求或者需要付费服务可加微信  记得备注一下  
 ![img.png](img.png)
